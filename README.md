@@ -90,7 +90,8 @@ package.json
 # FILE CONTENTS
 
 ```src/main.js
-console.log("Hello World")
+console.log("Hello World")  
+```
 ````
 
 ```package.json
