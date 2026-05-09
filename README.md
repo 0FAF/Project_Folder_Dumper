@@ -1,5 +1,5 @@
 # Project Folder Dumper
-A simple script that dumps the content of a project folder into a single file using markdown format. Includes excludes options
+A simple script that dumps the content of a project folder into a single file using markdown format. Includes exclude options
 
 
 # Use Cases
