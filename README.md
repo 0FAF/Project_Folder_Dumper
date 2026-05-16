@@ -94,12 +94,6 @@ console.log("Hello World")
 ```
 ````
 
-```package.json
-{
-  "name": "demo"
-}
-```
-
 ---
 
 # License
